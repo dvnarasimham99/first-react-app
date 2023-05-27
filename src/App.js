@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        Hello, This is <b>Narasimha</b>. Welcome to my first go live app.
+        Hello, This is <b>Narasimha Murthy</b>. Welcome to my first go live app.
         </p>
         <p>
         It's just a start. I'll be keep on updating the app.
