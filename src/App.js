@@ -14,7 +14,7 @@ function App() {
         </p>
 
         <p>
-        Can you suggest me the updates which I can try?
+        Can you suggest me the updates which I can try guys?
         </p>
         <a
           className="App-link"
