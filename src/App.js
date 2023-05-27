@@ -12,6 +12,10 @@ function App() {
         <p>
         It's just a start. I'll be keep on updating the app.
         </p>
+
+        <p>
+        Can you suggest me the updates which I can try guys?
+        </p>
         <a
           className="App-link"
           href="https://www.linkedin.com/in/narasimha-m-24458517b"
